@@ -30,7 +30,7 @@ cd exceptional-realty
   located below the video. Code everything you see there. Feel free to stop,
   pause, rewind or fast forward through the content to keep pace.
 
-<iframe width="640" height="480" src="//www.youtube.com/embed/lYHcdsF0Iug?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="/https://www.google.com/maps/@33.2209265,39.2319295,6z tbranding=1" frameborder="0" allowfullscreen></iframe>
 
 **NOTE**: The Google Maps interface has changed slightly since this video was
 recorded.
